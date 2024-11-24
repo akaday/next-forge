@@ -1,3 +1,121 @@
+# v2.16.15 (Sat Nov 23 2024)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlies)), for all your work!
+
+#### 🐛 Bug Fix
+
+- fix: resolve submenu duplication issues by using index as a key [#278](https://github.com/haydenbleasel/next-forge/pull/278) ([@yanisneverlies](https://github.com/yanisneverlies))
+
+#### Authors: 1
+
+- Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlies))
+
+---
+
+# v2.16.14 (Sat Nov 23 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Attempt to fix Mintlify images again ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.16.13 (Sat Nov 23 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Temporary Mintlify fix ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.16.12 (Thu Nov 21 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 📝 Documentation
+
+- Create Auth.js migration guide [#268](https://github.com/haydenbleasel/next-forge/pull/268) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.16.11 (Wed Nov 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update setup.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.16.10 (Wed Nov 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Document header security ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.16.9 (Wed Nov 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- For #272 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.16.8 (Wed Nov 20 2024)
+
+#### 🐛 Bug Fix
+
+- Add recommended libraries documentation [#270](https://github.com/haydenbleasel/next-forge/pull/270) ([@yamz8](https://github.com/yamz8) [@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 2
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Yam Catzenelson ([@yamz8](https://github.com/yamz8))
+
+---
+
+# v2.16.7 (Wed Nov 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update formatting.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v2.16.6 (Tue Nov 19 2024)
 
 #### ⚠️ Pushed to `main`

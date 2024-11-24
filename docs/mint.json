@@ -40,7 +40,19 @@
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["overview", "setup", "deploying", "faq"]
+      "pages": [
+        "overview",
+        "setup",
+        "deploying",
+        "faq",
+        {
+          "group": "Recommended Libraries",
+          "pages": [
+            "recommended-libraries/nuqs",
+            "recommended-libraries/zustand"
+          ]
+        }
+      ]
     },
     {
       "group": "Structure",
@@ -53,7 +65,10 @@
           "group": "Analytics",
           "pages": ["analytics/web", "analytics/product"]
         },
-        "authentication",
+        {
+          "group": "Authentication",
+          "pages": ["authentication/overview", "authentication/authjs"]
+        },
         "blog",
         "bundle-analysis",
         "collaboration",
@@ -101,6 +116,7 @@
           "pages": [
             "security/application",
             "security/dependencies",
+            "security/headers",
             "security/ip-geolocation"
           ]
         },
