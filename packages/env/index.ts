@@ -3,15 +3,15 @@ import { z } from 'zod';
 
 const server: Parameters<typeof createEnv>[0]['server'] = {
   CLERK_SECRET_KEY: z.string().min(1).startsWith('sk_'),
-  CLERK_WEBHOOK_SECRET: z.string().min(1).startsWith('whsec_'),
+  CLERK_WEBHOOK_SECRET: z.string().min(1).startsWith('whsec_').optional(),
   RESEND_AUDIENCE_ID: z.string().min(1),
   RESEND_FROM: z.string().min(1).email(),
   DATABASE_URL: z.string().min(1).url(),
   RESEND_TOKEN: z.string().min(1).startsWith('re_'),
   STRIPE_SECRET_KEY: z.string().min(1).startsWith('sk_'),
-  STRIPE_WEBHOOK_SECRET: z.string().min(1).startsWith('whsec_'),
-  BETTERSTACK_API_KEY: z.string().min(1),
-  BETTERSTACK_URL: z.string().min(1).url(),
+  STRIPE_WEBHOOK_SECRET: z.string().min(1).startsWith('whsec_').optional(),
+  BETTERSTACK_API_KEY: z.string().min(1).optional(),
+  BETTERSTACK_URL: z.string().min(1).url().optional(),
   ARCJET_KEY: z.string().min(1).startsWith('ajkey_'),
   ANALYZE: z.string().optional(),
   SVIX_TOKEN: z
@@ -41,8 +41,8 @@ const client: Parameters<typeof createEnv>[0]['client'] = {
   NEXT_PUBLIC_APP_URL: z.string().min(1).url(),
   NEXT_PUBLIC_WEB_URL: z.string().min(1).url(),
   NEXT_PUBLIC_API_URL: z.string().min(1).url().optional(),
-  NEXT_PUBLIC_DOCS_URL: z.string().min(1).url(),
-  NEXT_PUBLIC_GA_MEASUREMENT_ID: z.string().min(1).startsWith('G-'),
+  NEXT_PUBLIC_DOCS_URL: z.string().min(1).url().optional(),
+  NEXT_PUBLIC_GA_MEASUREMENT_ID: z.string().min(1).startsWith('G-').optional(),
   NEXT_PUBLIC_POSTHOG_KEY: z.string().min(1).startsWith('phc_'),
   NEXT_PUBLIC_POSTHOG_HOST: z.string().min(1).url(),
 

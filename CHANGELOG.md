@@ -1,3 +1,40 @@
+# v2.18.10 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- For #251 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.18.9 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- For #251 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.18.8 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- For #251 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update svix.ts ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v2.18.7 (Mon Nov 25 2024)
 
 #### 🐛 Bug Fix
