@@ -48,7 +48,10 @@
         {
           "group": "Recommended Libraries",
           "pages": [
+            "recommended-libraries/friendlier-words",
+            "recommended-libraries/motion",
             "recommended-libraries/nuqs",
+            "recommended-libraries/react-wrap-balancer",
             "recommended-libraries/zustand"
           ]
         }
@@ -61,6 +64,7 @@
     {
       "group": "Features",
       "pages": [
+        "ai",
         {
           "group": "Analytics",
           "pages": ["analytics/web", "analytics/product"]
@@ -120,6 +124,7 @@
             "security/ip-geolocation"
           ]
         },
+        "storybook",
         "webhooks",
         {
           "group": "SEO",

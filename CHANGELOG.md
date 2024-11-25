@@ -1,3 +1,185 @@
+# v2.18.7 (Mon Nov 25 2024)
+
+#### 🐛 Bug Fix
+
+- feat: Add built-in components for readability [#287](https://github.com/haydenbleasel/next-forge/pull/287) ([@fmerian](https://github.com/fmerian))
+
+#### Authors: 1
+
+- flo merian ([@fmerian](https://github.com/fmerian))
+
+---
+
+# v2.18.6 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update ai.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix AI provider snippet ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.18.5 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Improve AI docs ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.18.4 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update ai.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.18.3 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update .gitignore ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #275 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #199 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.18.2 (Mon Nov 25 2024)
+
+#### 🐛 Bug Fix
+
+- Added env variable NEXT_PUBLIC_API_URL [#245](https://github.com/haydenbleasel/next-forge/pull/245) ([@OsoThevenin](https://github.com/OsoThevenin) [@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 2
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Pere Bruy ([@OsoThevenin](https://github.com/OsoThevenin))
+
+---
+
+# v2.18.1 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Resolves #286, resolves #247 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.18.0 (Mon Nov 25 2024)
+
+#### 🚀 Enhancement
+
+- Symlink environment variables [#285](https://github.com/haydenbleasel/next-forge/pull/285) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.17.3 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #271 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #272 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #280 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.17.2 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Improve Storybook docs ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.17.1 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.17.0 (Mon Nov 25 2024)
+
+#### 🚀 Enhancement
+
+- Add Storybook [#167](https://github.com/haydenbleasel/next-forge/pull/167) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.16.17 (Mon Nov 25 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update authors.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v2.16.16 (Sun Nov 24 2024)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Pierangelo Di Pilato ([@pierDipi](https://github.com/pierDipi)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Minor: fix authjs migration secrets creation command [#281](https://github.com/haydenbleasel/next-forge/pull/281) ([@pierDipi](https://github.com/pierDipi))
+
+#### Authors: 1
+
+- Pierangelo Di Pilato ([@pierDipi](https://github.com/pierDipi))
+
+---
+
 # v2.16.15 (Sat Nov 23 2024)
 
 :tada: This release contains work from a new contributor! :tada:
